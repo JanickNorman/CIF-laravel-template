@@ -4,9 +4,9 @@
   "author":  "Janick Norman",
   "version": "v1.0.0",
   "urls": {
-    "admin_ui": "https://nameless-badlands-52217.herokuapp.com/integration/admin",
-    "pull_url": "https://nameless-badlands-52217.herokuapp.com/integration/pull",
-    "channelback_url": "https://nameless-badlands-52217.herokuapp.com/integration/channelback",
-    "clickthrough_url": "https://nameless-badlands-52217.herokuapp.com/integration/clickthrough"
+    "admin_ui": "https://genericintegration.herokuapp.com/integration/admin",
+    "pull_url": "https://genericintegration.herokuapp.com/integration/pull",
+    "channelback_url": "https://genericintegration.herokuapp.com/integration/channelback",
+    "clickthrough_url": "https://genericintegration.herokuapp.com/integration/clickthrough"
   }
 }
